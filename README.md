@@ -3,6 +3,7 @@
 link to the live site https://erikats.github.io/simple-page-DVA/
 
 TEXT: whatever I write here will appear in the webpage
+
 THE STORY:
 The most important item in your toolkit. The primary reason we're designing visualizations is to improve how we communicate our data story to other people
 
